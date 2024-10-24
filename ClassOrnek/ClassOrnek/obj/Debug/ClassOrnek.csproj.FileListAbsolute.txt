@@ -1,0 +1,7 @@
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\ClassOrnek\ClassOrnek\bin\Debug\ClassOrnek.exe.config
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\ClassOrnek\ClassOrnek\bin\Debug\ClassOrnek.exe
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\ClassOrnek\ClassOrnek\bin\Debug\ClassOrnek.pdb
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\ClassOrnek\ClassOrnek\obj\Debug\ClassOrnek.csproj.AssemblyReference.cache
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\ClassOrnek\ClassOrnek\obj\Debug\ClassOrnek.csproj.CoreCompileInputs.cache
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\ClassOrnek\ClassOrnek\obj\Debug\ClassOrnek.exe
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\ClassOrnek\ClassOrnek\obj\Debug\ClassOrnek.pdb
